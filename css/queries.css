@@ -1,7 +1,7 @@
 /*big tablets to 1200px (width smaller than the 1140px row)*/
 @media only screen and (max-width:1200px){
     section.row-text {
-        margin-top: 15em;
+        margin-top: 2em;
     }
     p.our {
         font-size: 29px;
@@ -119,13 +119,56 @@
         padding-right: 352px;
         border: 1px solid;
     }
+    section.row-text {
+        margin-top: 2em;
+    }
+    h1.reliable {
+        font-size: 54px;
+        font-weight: 100;
+        color: hsl(234, 12%, 34%);
+    }
+    h1.powered {
+        font-size: 58px;
+        color: hsl(234, 12%, 34%);
+    }
+    p.our {
+        font-size: 17px;
+        font-weight: 100;
+        color: hsl(234, 12%, 34%);
+        white-space: nowrap;
+        line-height: 2em;
+    }
+    .super {
+        margin-top: -40em;
+        margin-left: -7em;
+        height: 21em;
+        width: 24em;
+    }
+    .build {
+        background-color: hsl(0, 0%, 98%);
+        width: 24em;
+        height: 21em;
+        border-radius: 1em;
+        border: 1px solid;
+        box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
+        margin-top: 29em;
+        /* margin-left: -57em; */
+        margin-left: -37em;
+    }
+    section.row-model {
+        display: flex;
+        justify-content: space-around;
+        /* margin-top: -27em; */
+        display: grid;
+    }
+
 
 }
 
 /*small tablets to big tablets: from 768px to 1023px*/
 @media only screen and (max-width:1023px){
     section.row-text {
-        margin-top: 15em;
+        margin-top: 2em;
     }
     p.our {
         font-size: 29px;
@@ -153,7 +196,7 @@
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
         margin-top: 29em;
         /* margin-left: -57em; */
-        margin-left: -65em;
+        margin-left: 0em;
     }
     section.row-model {
         display: flex;
@@ -243,7 +286,25 @@
         padding-right: 352px;
         border: 1px solid;
     }
-
+    section.row-model {
+        display: flex;
+        justify-content: space-around;
+        /* margin-top: -27em; */
+        display: grid;
+    }
+    h1.reliable {
+        font-size: 55px;
+        font-weight: 100;
+        color: hsl(234, 12%, 34%);
+    }
+    p.our {
+        font-size: 20px;
+        font-weight: 100;
+        color: hsl(234, 12%, 34%);
+        white-space: nowrap;
+        line-height: 2em;
+    }
+    
     
     
     
