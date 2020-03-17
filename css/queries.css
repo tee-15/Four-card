@@ -31,7 +31,7 @@
     .build {
         background-color: hsl(0, 0%, 98%);
         width: 22em;
-        height: 20em;
+        height: 21em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
@@ -40,7 +40,7 @@
     }
     
     .super {
-        margin-top: -36em;
+        margin-top: -38em;
         margin-left: 0em;
         height: 20em;
        
@@ -65,7 +65,7 @@
         margin-top: 6em;
         background-color: hsl(0, 0%, 98%);
         width: 22em;
-        height: 20em;
+        height: 21em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
@@ -73,7 +73,7 @@
     .regulary {
         background-color: hsl(0, 0%, 98%);
         width: 22em;
-        height: 20em;
+        height: 21em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
@@ -125,7 +125,7 @@
     .build {
         background-color: hsl(0, 0%, 98%);
         width: 22em;
-        height: 19em;
+        height: 20em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
@@ -139,7 +139,7 @@
         /* margin-top: -27em; */
     }
     .super {
-        margin-top: -36em;
+        margin-top: -38em;
         margin-left: 0em;
         height: 20em;
        
@@ -150,7 +150,7 @@
     .regulary {
         background-color: hsl(0, 0%, 98%);
         width: 22em;
-        height: 20em;
+        height: 21em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
@@ -173,7 +173,7 @@
         margin-top: 6em;
         background-color: hsl(0, 0%, 98%);
         width: 22em;
-        height: 19em;
+        height: 20em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
