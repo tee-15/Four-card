@@ -20,17 +20,14 @@
         color: hsl(234, 12%, 34%);
     }
    
-    .super {
-        margin-top: -55em;
-        margin-left: 0em;
-    }
+    
     section.row-box {
         
         margin-top: 20em;
     }
     .build {
         background-color: hsl(0, 0%, 98%);
-        width: 22em;
+        width: 24em;
         height: 21em;
         border-radius: 1em;
         border: 1px solid;
@@ -40,9 +37,10 @@
     }
     
     .super {
-        margin-top: -38em;
+        margin-top: -40em;
         margin-left: 0em;
         height: 20em;
+        width: 24em;
        
         
         
@@ -64,7 +62,7 @@
     .builder {
         margin-top: 6em;
         background-color: hsl(0, 0%, 98%);
-        width: 22em;
+        width: 24em;
         height: 21em;
         border-radius: 1em;
         border: 1px solid;
@@ -72,7 +70,7 @@
     }
     .regulary {
         background-color: hsl(0, 0%, 98%);
-        width: 22em;
+        width: 24em;
         height: 21em;
         border-radius: 1em;
         border: 1px solid;
@@ -96,6 +94,30 @@
         margin-top: 1em;
         margin-left: 1em;
         color: hsl(234, 12%, 34%);
+    }
+    .note {
+        border-radius: 8px;
+        background: hsl(0, 78%, 62%);
+        padding-right: 350px;
+        border: 1px solid;
+    }
+    .talent {
+        border-radius: 8px;
+        background: hsl(34, 97%, 64%);
+        padding-right: 350px;
+        border: 1px solid;
+    }
+    .vision {
+        border-radius: 8px;
+        background: hsl(180, 62%, 55%);
+        padding-right: 350px;
+        border: 1px solid;
+    }
+    .no {
+        border-radius: 8px;
+        background: hsl(212, 86%, 64%);
+        padding-right: 350px;
+        border: 1px solid;
     }
 
 }
@@ -124,8 +146,8 @@
     }
     .build {
         background-color: hsl(0, 0%, 98%);
-        width: 22em;
-        height: 20em;
+        width: 24em;
+        height: 21em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
@@ -139,17 +161,24 @@
         /* margin-top: -27em; */
     }
     .super {
-        margin-top: -38em;
+        margin-top: -40em;
         margin-left: 0em;
-        height: 20em;
+        height: 21em;
+        width: 24em;
        
         
         
        
     }
+    .note {
+        border-radius: 8px;
+        background: hsl(0, 78%, 62%);
+        padding-right: 350px;
+        border: 1px solid;
+    }
     .regulary {
         background-color: hsl(0, 0%, 98%);
-        width: 22em;
+        width: 24em;
         height: 21em;
         border-radius: 1em;
         border: 1px solid;
@@ -172,8 +201,8 @@
     .builder {
         margin-top: 6em;
         background-color: hsl(0, 0%, 98%);
-        width: 22em;
-        height: 20em;
+        width: 24em;
+        height: 21em;
         border-radius: 1em;
         border: 1px solid;
         box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
@@ -195,6 +224,24 @@
         margin-top: 1em;
         margin-left: 1em;
         color: hsl(234, 12%, 34%);
+    }
+    .talent {
+        border-radius: 8px;
+        background: hsl(34, 97%, 64%);
+        padding-right: 350px;
+        border: 1px solid;
+    }
+    .vision {
+        border-radius: 8px;
+        background: hsl(180, 62%, 55%);
+        padding-right: 350px;
+        border: 1px solid;
+    }
+    .no {
+        border-radius: 8px;
+        background: hsl(212, 86%, 64%);
+        padding-right: 350px;
+        border: 1px solid;
     }
 
     
