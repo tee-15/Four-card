@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+   html,
+   body{
+     font-weight: 200,400,600;
+     font-size: 15px;
+     text-rendering: optimizeLegibility;
+     font-family: Poppins;
+     background-color: hsl(0, 0%, 98%);
+    
+    
+     
+    
+    
+
+}
+a{
+    text-decoration: none;
+    
+}
+section.row-text{
+    text-align: center;
+    margin-top: 5em;
+}
+
+.tools {
+    margin-top: 2em;
+    line-height: 2em;
+}
+h1.reliable {
+    font-size: 40px;
+    font-weight: 100;
+    color:   hsl(234, 12%, 34%);
+}
+h1.powered {
+    font-size: 42px;
+    color:  hsl(234, 12%, 34%);
+} 
+p.our {
+    font-size: 18px;
+    font-weight: 100;
+    color: hsl(234, 12%, 34%);
+}
+
+.builder {
+    margin-top: 6em;
+    background-color: hsl(0, 0%, 98%);
+    width: 22em;
+    height: 17em;
+    border-radius: 1em;
+    border: 1px solid;
+    box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
+}
+section.row-box {
+    display: grid;
+    justify-content: center;
+}
+.note {
+    border-radius: 8px;
+    background:  hsl(0, 78%, 62%);
+    padding-right: 326px;
+    border: 1px solid;
+}
+h3.team {
+    font-size: 21px;
+    margin-top: 1em;
+    margin-left: 1em;
+    color:  hsl(234, 12%, 34%);
+}
+p.scan {
+    line-height: 2em;
+    margin-left: 1.5em;
+    margin-top: 2em;
+    color:  hsl(234, 12%, 34%);;
+}
+.build{
+    background-color: hsl(0, 0%, 98%);
+    width: 22em;
+    height: 17em;
+    border-radius: 1em;
+    border: 1px solid;
+    box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
+
+}
+
+.icon-team {
+    margin-left: 16em;
+    margin-top: 1em;
+}
+.no{
+    border-radius: 8px;
+    background:  hsl(212, 86%, 64%);
+    padding-right: 326px;
+    border: 1px solid;
+}
+.calculator{
+    font-size: 21px;
+    margin-top: 1em;
+    margin-left: 1em;
+    color:  hsl(234, 12%, 34%);
+}
+.icon-calulator{
+    margin-left: 16em;
+    margin-top: 1em;
+
+
+}
+.super {
+    background-color: hsl(0, 0%, 98%);
+    width: 22em;
+    height: 17em;
+    border-radius: 1em;
+    border: 1px solid;
+    box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
+}
+.vision{
+    border-radius: 8px;
+    background:  hsl(180, 62%, 55%);
+    padding-right: 326px;
+    border: 1px solid;
+}
+.supervisor{
+    font-size: 21px;
+    margin-top: 1em;
+    margin-left: 1em;
+    color:  hsl(234, 12%, 34%);
+}
+.icon-supervisor{
+    margin-left: 16em;
+    margin-top: 1em;
+
+}
+.regulary {
+    background-color: hsl(0, 0%, 98%);
+    width: 22em;
+    height: 17em;
+    border-radius: 1em;
+    border: 1px solid;
+    box-shadow: 5px 10px 10px hsl(229, 6%, 66%);
+    margin-top: 2em;
+
+
+}
+.talent{
+    border-radius: 8px;
+    background:  hsl(34, 97%, 64%);
+    padding-right: 326px;
+    border: 1px solid;
+}
+.karma{
+    font-size: 21px;
+    margin-top: 1em;
+    margin-left: 1em;
+    color:   hsl(234, 12%, 34%);
+}
+.icon-karma{
+    margin-left: 16em;
+    margin-top: 1em;
+}
+section.row-model {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -27em;
+}
